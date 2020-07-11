@@ -1,0 +1,14 @@
+class Bankomat
+	klienci
+	wydaj()
+	pobierz()
+	pokaz_stan()
+
+class Uzytkownik
+	numer_konta
+	stan_portfela
+	sprawdz_stan_konta()
+	wez_pieniadze_z_konta()
+	wrzuc_pieniadze_na_konto()
+
+#0,75pkt
